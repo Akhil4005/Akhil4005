@@ -18,12 +18,16 @@ Welcome to my GitHub profile! I’m passionate about harnessing the power of **D
   - Deep learning models (CNN, RNN)
   - Time Series Forecasting
   - Natural Language Processing (NLP)
+  - **Generative AI** and **Large Language Models (LLMs)** like GPT.
   
 - 📊 **Data Analytics & Visualization**  
   I’m passionate about making sense of data through analytics. I love using:
   - **Power BI** and **Tableau** for dynamic, interactive visualizations.
   - **Python** (Pandas, NumPy, Matplotlib, Seaborn) for robust data analysis.
+  - **Data Structures and Algorithms** for optimizing data processing and improving model efficiency.
   
+![Data Scientist GIF](https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif)
+
 ---
 
 ## 🔭 What I’m Working On:
@@ -31,6 +35,7 @@ Welcome to my GitHub profile! I’m passionate about harnessing the power of **D
 - **📈 Developing Machine Learning Models** for classification, regression, and anomaly detection.
 - **🧠 Exploring Deep Learning** to enhance model performance using neural networks.
 - **🔬 Data Analytics** projects to extract insights and provide data-driven solutions.
+- **🖼️ Working on Generative AI models** for image and text synthesis using LLMs and GANs.
 - **📊 Building Data Dashboards** with Power BI to visualize real-time data.
 
 ---
@@ -44,6 +49,9 @@ Welcome to my GitHub profile! I’m passionate about harnessing the power of **D
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-00ADD8?logo=data&logoColor=white&style=for-the-badge)
+![LLMs](https://img.shields.io/badge/-LLMs-4C4CFF?logo=openai&logoColor=white&style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-663399?logo=ai&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -51,14 +59,17 @@ Welcome to my GitHub profile! I’m passionate about harnessing the power of **D
 
 Here are some of my most notable projects that showcase my expertise:
 
-- **[Restaurant Finder Dashboard](https://github.com/yourusername/restaurant-finder-dashboard)**  
+- **[Text-to-Image Synthesis with StackGAN](https://github.com/Akhil4005/StackGAN)**  
+  An advanced deep learning project for generating realistic images from text descriptions using StackGAN.
+
+- **[Credit-Card-Fraud-Detection-ML](https://github.com/Akhil4005/Credit-Card-Fraud-Detection-ML)**  
+  A project focused on detecting fraudulent credit card transactions using machine learning algorithms.
+
+- **[Restaurant Finder Dashboard](https://github.com/Akhil4005/Restaurant-finder-Bangalore-Dashboard)**  
   An interactive dashboard to find top-rated restaurants in Bangalore using Power BI and Data Analytics.
 
 - **[Stock Price Prediction](https://github.com/yourusername/stock-price-prediction)**  
   Predicting stock prices using advanced machine learning algorithms and time series forecasting.
-
-- **[Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction)**  
-  Building predictive models to anticipate customer churn and helping businesses retain their customers.
 
 ---
 
@@ -67,6 +78,7 @@ Here are some of my most notable projects that showcase my expertise:
 - Mastering advanced **Deep Learning** architectures like GANs and LSTMs.
 - Enhancing skills in **Natural Language Processing** to work on real-world text data.
 - Diving deeper into **Reinforcement Learning** for smarter, adaptive models.
+- Exploring the latest trends in **Generative AI** and **Large Language Models** to build state-of-the-art applications.
 
 ---
 
