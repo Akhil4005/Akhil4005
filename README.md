@@ -84,7 +84,7 @@ Here are some of my most notable projects that showcase my expertise:
 
 ## 📫 Let’s Connect!
 
-- 📧 **Email**: [akhil@example.com](mailto:akhildograabhi367@gmail.com)
+- 📧 **Email**: [akhildograabhi367@gmail.com](mailto:akhildograabhi367@gmail.com)
 - 📝 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/akhil-kumar-494951218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
 
 
