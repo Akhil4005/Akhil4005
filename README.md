@@ -69,8 +69,8 @@ Here are some of my most notable projects that showcase my expertise:
 - **[Restaurant Finder Dashboard](https://github.com/Akhil4005/Restaurant-finder-Bangalore-Dashboard)**  
   An interactive dashboard to find top-rated restaurants in Bangalore using Power BI and Data Analytics.
 
-- **[Stock Price Prediction](https://github.com/yourusername/stock-price-prediction)**  
-  Predicting stock prices using advanced machine learning algorithms and time series forecasting.
+- **[Energy-Consumption-Time-Series-Forecasting](https://github.com/Akhil4005/Energy-Consumption-Time-Series-Forecasting)**  
+  Advanced time series forecasting model (ARMA) for energy consumption prediction.
 
 ---
 
