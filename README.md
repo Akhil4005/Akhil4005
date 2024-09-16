@@ -1,4 +1,5 @@
 # Hi there, I'm Akhil Kumar! 👋
+![Data Science Enthusiast GIF](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
 
 ![Data Science GIF](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
 
