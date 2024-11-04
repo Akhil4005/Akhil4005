@@ -1,8 +1,6 @@
 # Hi there, I'm Akhil Kumar! 👋
 
 
-![Data Science GIF](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
-
 Welcome to my GitHub profile! I’m passionate about harnessing the power of **Data Science** and **Machine Learning** to solve real-world problems. As a tech enthusiast, I love exploring cutting-edge technologies, diving deep into data analytics, and constantly learning new skills to refine my craft. Take a look around and explore my work!
 
 ---
@@ -26,8 +24,7 @@ Welcome to my GitHub profile! I’m passionate about harnessing the power of **D
   - **Power BI** and **Tableau** for dynamic, interactive visualizations.
   - **Python** (Pandas, NumPy, Matplotlib, Seaborn) for robust data analysis.
   - **Data Structures and Algorithms** for optimizing data processing and improving model efficiency.
-  
-![Data Scientist GIF](https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif)
+
 
 ---
 
